@@ -18,7 +18,6 @@
 
 ## I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from VietNam.
 
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thaonguyen23546&show_icons=true&theme=synthwave)
 
 ### :hammer_and_wrench: Languages and Tools :
